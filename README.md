@@ -1,0 +1,1 @@
+Tujuan utama dari penelitian ini adalah untuk menerapkan sistem prediksi medis terbaik untuk diagnosis penyakit jantung pada tahap awal menggunakan teknik pembelajaran mesin. Dalam penelitian ini, algoritma pengklasifikasi yang digunakan adalah Logistic regression, K Nearest Neighbors (KNN), Support  Vector Machine (SVM), Naïve Bayes, Decision Tree dan Random Forest.
